@@ -116,4 +116,6 @@ def browse_and_run(): root = Tk(); root.withdraw() file_path = askopenfilename(t
 
 Run
 out_path = browse_and_run() out_path
+![Screenshot 2025-11-20 112447](https://github.com/user-attachments/assets/7490c884-00f2-4ec8-9460-c79c53fa188e)
+![Screenshot 2025-11-20 112551](https://github.com/user-attachments/assets/e16fd06a-163e-40f5-8c38-03f6d49516b5)
 ![Screenshot 2025-11-16 233121](https://github.com/user-attachments/assets/c9cae7e6-5118-4a4e-9f6e-004f6d5ba7c2)
